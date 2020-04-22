@@ -1,0 +1,25 @@
+{
+  "name": "es1.0",
+  "version": "1.0.0",
+  "description": "ciao",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rownok2000/Es1.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rownok2000/Es1.0/issues"
+  },
+  "homepage": "https://github.com/Rownok2000/Es1.0#readme",
+  "dependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^6.0.3",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
